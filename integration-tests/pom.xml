@@ -41,6 +41,7 @@
             org/junit/platform/junit-platform-commons/${junit-platform-launcher.version}
             org/junit/jupiter/junit-jupiter/${junit.jupiter.version}
             org/junit/jupiter/junit-jupiter-api/${junit.jupiter.version}
+            org/apiguardian/apiguardian-api/${apiguardian-api.version}
         </preinstall.artifacts>
 
     </properties>
